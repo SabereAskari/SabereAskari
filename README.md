@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SabereAskari
-- 👀 I’m interested in Research and Programing (recently front-end)
+- 👀 I’m interested in Research and Programing (recently python)
 - 🌱 I’m currently learning java script
 
 
