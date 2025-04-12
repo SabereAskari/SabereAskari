@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabereAskari
 - 👀 I’m interested in Research and Programing (recently python)
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning AI related sciences such as dl
 
 
 <!---
